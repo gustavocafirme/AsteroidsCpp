@@ -297,17 +297,17 @@ namespace HUD
 	void printHelp() {
 		cleanScreen();
 		Cursor::goToHelpW();
-		std::cout << "w: move up in menu / accelerate";
+		std::cout << "W: Move up in the menu / Accelerate";
 		Cursor::goToHelpS();
-		std::cout << "s: move down in menu";
+		std::cout << "S: Move down in the menu";
 		Cursor::goToHelpA();
-		std::cout << "a: turn left";
+		std::cout << "A: Turn left";
 		Cursor::goToHelpD();
-		std::cout << "d: turn right";
+		std::cout << "D: Turn right";
 		Cursor::goToHelpJ();
-		std::cout << "j: accept / start the game / pause the game";
+		std::cout << "J: Accept / Start game / Pause game";
 		Cursor::goToHelpK();
-		std::cout << "k: shoot";
+		std::cout << "K: Shoot";
 		_getch();
 	}
 
