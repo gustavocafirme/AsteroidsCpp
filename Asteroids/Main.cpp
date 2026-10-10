@@ -21,7 +21,7 @@ void help() {
 
 int main()
 {
-	ScreenLimit::setLimits(128, 45);
+	ScreenLimit::setLimits(120, 30);
 	Space space;
 	bool exit = false;
 	bool exitDifficulty;
