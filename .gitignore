@@ -43,3 +43,20 @@ Asteroids/x64/*
 Asteroids/.vscode/*
 Asteroids/out/*
 CodeGraphData/*
+
+# Output directories (Release / Debug / x64)
+[Rr]elease/
+*/[Rr]elease/
+[Dd]ebug/
+*/[Dd]ebug/
+x64/
+x86/
+
+# Visual Studio temporary & compiled resource build files
+*.aps
+*.res
+*.iobj
+*.ipdb
+*.tlog
+*.recipe
+*.log
