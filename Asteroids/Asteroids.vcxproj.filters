@@ -86,11 +86,16 @@
     <ClInclude Include="Speed.h">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Media Include="Explosion01.wav">
+    <ResourceCompile Include="Asteroids.rc">
       <Filter>Arquivos de Recurso</Filter>
-    </Media>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
     <Media Include="Failure.wav">
       <Filter>Arquivos de Recurso</Filter>
     </Media>
@@ -110,6 +115,9 @@
       <Filter>Arquivos de Recurso</Filter>
     </Media>
     <Media Include="Success.wav">
+      <Filter>Arquivos de Recurso</Filter>
+    </Media>
+    <Media Include="Explosion01.wav">
       <Filter>Arquivos de Recurso</Filter>
     </Media>
   </ItemGroup>
