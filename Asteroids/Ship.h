@@ -2,8 +2,6 @@
 #define SHIP_H
 
 #include <vector>
-//#include "Position.h"
-//#include "Speed.h"
 #include "Bullet.h"
 #include "Asteroid.h"
 

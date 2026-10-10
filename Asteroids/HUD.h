@@ -2,7 +2,6 @@
 #define HUD_H
 
 #include "Ship.h"
-//#include "Asteroid.h"
 
 namespace HUD
 {

@@ -2,7 +2,6 @@
 #define ASTEROID_H
 
 #include "Position.h"
-//#include "Speed.h"
 
 class Asteroid
 {

@@ -2,7 +2,6 @@
 #define BULLET_H
 
 #include "Position.h"
-//#include "Speed.h"
 
 class Bullet
 {
