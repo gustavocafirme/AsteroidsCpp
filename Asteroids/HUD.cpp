@@ -9,7 +9,7 @@ namespace HUD
 {
 	namespace
 	{
-		const char ARROW = 175, ASTEROID = 219, HEART = 3, BULLET = 250;
+		const char ARROW = 175, ASTEROID = 219, HEART = 79, BULLET = 250;
 		const char SHIP_BODY = 'O', FACE_HORIZONTAL = 196, FACE_VERTICAL = '|';
 		const char FACE_DIAGONAL_LEFT = '\\', FACE_DIAGONAL_RIGHT = '/';
 		const char HELP_TOP_LEFT = 201, HELP_HORIZONTAL = 205, HELP_TOP_RIGHT = 187;
